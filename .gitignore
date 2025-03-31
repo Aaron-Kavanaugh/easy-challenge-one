@@ -1,0 +1,19 @@
+# Build and debug folders
+x64/
+*.obj
+*.pdb
+*.exe
+*.log
+*.user
+
+# VS-specific stuff
+.vs/
+*.suo
+*.vcxproj.user
+*.cache
+*.opensdf
+*.sdf
+
+# Temp folders
+easy-cha.*/
+# I hardly know what i am doing here at the moment git is harder then expected.....
